@@ -3,7 +3,6 @@
 .holder{
 	display:grid;
 	background:grey;
-	grid-area:200px;
-	grid-template-columns:auto auto;
-	grid-template-row:auto auto;
+	grid-template-columns:100px 100px;
+	grid-template-row:100px 100px;
 }
